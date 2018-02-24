@@ -1,0 +1,5 @@
+hi simple text
+and i am changed now
+this after branch feature1git status
+this is again change after feature1
+new one
